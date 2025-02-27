@@ -22,7 +22,7 @@ sudo dnf install -y curl jq
 ```
 ### 2. Download the Script
 ```bash
-curl -L -o discord-ipset-gen https://github.com/imtoopunkforyou/discord-ipset-for-amnezia/blob/main/main.sh
+curl -L -o discord-ipset-gen https://raw.githubusercontent.com/imtoopunkforyou/discord-ipset-for-amnezia/refs/heads/main/main.sh
 ```
 ```bash
 chmod +x discord-ipset-gen
