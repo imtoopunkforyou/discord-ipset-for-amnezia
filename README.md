@@ -21,7 +21,13 @@ For Fedora/RHEL/CentOS:
 sudo dnf install -y curl jq
 ```
 ### 2. Download the Script
-TODO
+```bash
+curl -L -o discord-ipset-gen https://github.com/imtoopunkforyou/discord-ipset-for-amnezia/blob/main/main.sh
+```
+```bash
+chmod +x discord-ipset-gen
+```
+
 
 ## Usage
 Basic usage:
