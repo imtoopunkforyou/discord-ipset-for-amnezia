@@ -1,4 +1,4 @@
-# Discord IP/Hostname JSON Generator for amnezia-vpn
+# Discord IP/Hostname JSON Generator for [amnezia-vpn](https://github.com/amnezia-vpn)
 
 A Bash script to generate a consolidated JSON list of Discord-related hostnames and IP addresses from trusted sources.
 
