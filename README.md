@@ -33,6 +33,10 @@ chmod +x discord-ipset-gen
 ```bash
 ./discord-ipset-gen <output-file.json>
 ```
+or
+```bash
+./discord-ipset-gen
+```
 - Typical output:
 ```
 Generated JSON with 427 entries in: discord-ipset.json
