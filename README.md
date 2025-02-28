@@ -49,6 +49,10 @@ Generated JSON with 427 entries in: discord-ipset.json
     "ip": "35.219.254.0/24"
   },
   ...
+  {
+    "hostname": "eg.discord-voice.com",
+    "ip": "11.222.333.0/44"
+  }
 ]
 ```
 ## List sources
